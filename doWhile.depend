@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647955050 source:c:\users\pc\documents\platzi projects\curso de programación estructurada\dowhilecicle\challenge\challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+
